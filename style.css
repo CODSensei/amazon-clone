@@ -1,14 +1,14 @@
 * {
-  padding: 0px;
-  margin: 0px;
-  color: white;
+    padding: 0px;
+    margin: 0px;
+    color: white;
 }
 #navbar {
-  height: 60px;
-  background-color: #0f1111;
+    height: 60px;
+    background-color: #0f1111;
 }
 button {
-  background-color: #f08804;
+    background-color: #f08804;
 }
 #logo {
   color: #f08804;
@@ -18,4 +18,20 @@ a{
     margin-right: 200px;
     text-decoration: none;
     
+}
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;  
+    color: black;
+    text-align: center;
+    
+}
+#content{
+    height: 812px;
+}
+footer{
+    background-color: black;
+    text-align: center;
 }
